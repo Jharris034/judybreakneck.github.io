@@ -84,9 +84,9 @@ iframe {
   padding: 3rem;
   font-size: 2.5rem;
   width: auto;
-  background: #7dffc4;
+  background: #3b31ff;
   color: #f9ff7d;
-  border: 15px solid #f9ff7d;
+  border: 15px double #f9ff7d;
 }
 
 .profile-img {
