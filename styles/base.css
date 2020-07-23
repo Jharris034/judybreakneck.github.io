@@ -109,3 +109,9 @@ iframe {
   background: #ff31f5;
   color: black;
 }
+
+.favorite-superpower p,
+.favorite-music p,
+.favorite-animal p {
+  font-size: 1.5rem;
+}
