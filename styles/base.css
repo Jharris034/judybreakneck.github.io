@@ -94,3 +94,18 @@ iframe {
   width: auto;
   border-radius: 50%;
 }
+
+.favorite-animal {
+  background: #31ffa2;
+  color: black;
+}
+
+.favorite-music {
+  background: #a231ff;
+  color: white;
+}
+
+.favorite-superpower {
+  background: #ffa231;
+  color: black;
+}
