@@ -103,6 +103,7 @@ iframe {
 .favorite-music {
   background: #a231ff;
   color: white;
+  background: rgba(255,105,180,.5);
 }
 
 .favorite-superpower {
