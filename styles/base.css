@@ -87,6 +87,7 @@ iframe {
   background: #3b31ff;
   color: #f9ff7d;
   border: 15px double #f9ff7d;
+  background: rgba(255,105,180,.5);
 }
 
 .profile-img {
@@ -103,7 +104,6 @@ iframe {
 .favorite-music {
   background: #a231ff;
   color: white;
-  background: rgba(255,105,180,.5);
 }
 
 .favorite-superpower {
