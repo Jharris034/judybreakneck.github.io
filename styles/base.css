@@ -97,22 +97,22 @@ iframe {
 }
 
 .favorite-animal {
-  background: #8eff31;
-  color: black;
-}
-
-.favorite-music {
-  background: #a231ff;
+  background: #5D21D0;
   color: white;
 }
 
+.favorite-music {
+  background: #01F9C6;
+  color: #5D21D0;
+}
+
 .favorite-superpower {
-  background: #ff31f5;
-  color: black;
+  background: #04D9FF;
+  color: #5D21D0;
 }
 
 .favorite-superpower p,
 .favorite-music p,
 .favorite-animal p {
-  font-size: 1.5rem;
+  font-size: 1.75rem;
 }
