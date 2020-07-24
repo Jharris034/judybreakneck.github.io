@@ -115,6 +115,7 @@ iframe {
 .favorite-music,
 .favorite-animal {
   padding: 3rem;
+  border: 1px solid #f9ff7d;
 }
 
 .favorite-superpower p,
