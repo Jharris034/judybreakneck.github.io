@@ -142,7 +142,7 @@ iframe {
   text-decoration: none;
   border: 4px solid #f9ff7d;
   box-shadow: 0px 0px 5px 3px rgba(249,255,125,.35);
-  transition: all .5s ease, box-shadow 2.5s ease;
+  transition: all .5s ease, box-shadow 2s ease;
 }
 
 .btn:hover {
@@ -150,7 +150,7 @@ iframe {
   border-radius: .1rem;
   letter-spacing: 10px;
   box-shadow: 0px 0px 10px 35px rgba(249,255,125,.35);
-  transform: translateY(-1rem);
+  transform: translateY(-2.5rem);
 }
 
 .copyright {
