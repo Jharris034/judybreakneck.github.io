@@ -148,7 +148,7 @@ iframe {
   border: 10px solid #f9ff7d;
   border-radius: .1rem;
   letter-spacing: 10px;
-  box-shadow: 0px 10px 10px 5px rgba(249,255,125,.5);
+  box-shadow: 0px 10px 10px 5px rgba(249,255,125,.35);
   transform: translateY(-1rem);
 }
 
