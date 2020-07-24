@@ -111,6 +111,12 @@ iframe {
   color: #5D21D0;
 }
 
+.favorite-superpower,
+.favorite-music,
+.favorite-animal {
+  padding: 3rem;
+}
+
 .favorite-superpower p,
 .favorite-music p,
 .favorite-animal p {
