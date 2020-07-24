@@ -125,3 +125,8 @@ iframe {
 .favorite-animal p {
   font-size: 1.75rem;
 }
+
+.copyright {
+  text-align: center;
+  padding: 2rem;
+}
